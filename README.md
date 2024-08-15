@@ -15,6 +15,5 @@ Name: Sabindra Nath Shrestha <br>Education: Bachelors in Computer Application(20
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sabindara17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sabindara17&icon=0&color=2)](https://visitcount.itsvg.in)
+
 
