@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Sabindra Nath Shrestha <br>Education: Bachelors in Computer Application(2019-2024)<br>Aspiring software developer with a strong foundation in web development. Completed an internship as a PHP and Laravel developer as well as Unity Game Developer, where I gained hands-on experience in building efficient and scalable applications. Passionate about learning new technologies and improving my coding skills.
+Name: Sabindra Nath Shrestha <br>Education: Bachelors in Computer Application(2019-2024)<br>Aspiring software developer with a strong foundation in web development.<br>Junior Full Satck Developer
 
 
 ## 🌐 Socials:
