@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Sabindra Nath Shrestha <br>Education: Bachelors in Computer Application(2019-2024)<br>Aspiring software developer with a strong foundation in web development.<br>Junior Full Satck Developer
+Name: Sabindra Nath Shrestha <br>Education: Bachelors in Computer Application(2019-2024)<br>Aspiring software developer with a strong foundation in web development.<br>Junior Full Satck Developer.
 
 
 ## 🌐 Socials:
